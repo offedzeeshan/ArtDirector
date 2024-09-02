@@ -1,0 +1,34 @@
+.main {
+    margin-right: 20%;
+
+}
+.page21 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+
+}
+.cntct {
+    margin-top: 10px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.info{
+    margin-top: 20px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.exp{
+    margin-top: 20px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}

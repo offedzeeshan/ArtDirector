@@ -1,0 +1,9 @@
+.page5_bg {
+    background-image: url("./page5.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    padding: 400px 400px 400px 400px ;
+    
+}

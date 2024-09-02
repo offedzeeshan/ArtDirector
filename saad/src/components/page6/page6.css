@@ -1,0 +1,33 @@
+.page6 {
+    background-image: url("./page6.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    /* padding: 400px 400px 400px 400px ; */
+    
+}
+.page61{
+  
+    width: 70%;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="page61"] {
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+}
+
+.table{
+    background-image: url("./page63.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+}
+
+
+
+
