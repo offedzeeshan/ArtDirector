@@ -2,7 +2,7 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import './App.css'
-// import { Banner } from './components/banner/banner.jsx'
+import { Banner } from './components/banner/banner.jsx'
 import { Header } from './components/header/header.jsx'
 import { Page2 } from './components/page2/page2.jsx'
 import { Page3 } from './components/page3/page3.jsx'
@@ -16,7 +16,7 @@ function App() {
     <>
      
      <Header/>
-     {/* <Banner/> */}
+     <Banner/>
      <Page2/>
      <Page3/>
      <Page4/>
