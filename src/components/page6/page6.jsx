@@ -21,18 +21,18 @@ export const Page6 = () => {
                     </Col>
                 </Row>
             </Container>
-            <div className='table'>
+            <div className='wable'>
             <Row>
-                    <Col>
-                    <img  className=' deltin' src={deltin} />
+                    <Col className='container'>
+                    <img  className='hola child bounce' src={deltin} />
 
                     </Col>
-                    <Col>
-                    <img  className=' majestic' src={majestic} />
+                    <Col className='container' >
+                    <img  className='hola child bounce' src={majestic} />
                    
                     </Col>
-                    <Col>
-                    <img  className=' bigdaddy' src={bigdaddy} />
+                    <Col className='container'>
+                    <img  className='hola child bounce' src={bigdaddy} />
                    
                     </Col>
                 </Row>

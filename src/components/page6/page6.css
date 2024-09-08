@@ -20,14 +20,41 @@
   }
 }
 
-.table{
+.wable{
     background-image: url("./page63.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
 }
+.hola{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
 
 
 
 
+/* .container {
+    border-bottom: 2px solid #000000;
+    display: flex;
+    height: 200px;
+    width: 100%;
+} */
+.child {
+    align-self: flex-end;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    transform-origin: bottom;
+}
+.bounce:hover {
+    animation-name: bounce;
+    animation-timing-function: ease;
+}
+@keyframes bounce {
+  10%   { transform: translateY(0); }
+  50%  { transform: translateY(-50px); }
+  100% { transform: translateY(0); }
+}
