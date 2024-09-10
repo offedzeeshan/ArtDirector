@@ -32,7 +32,7 @@ export const Banner = () => {
         <Col xs={12} md={6} lg={6} xl={6}  >
           <img className="img-fluid tullu"  src={headertxt} />
           <p className="text-center bannerp">
-            I’m Saad Kaif, Speaking of which is a Sr. Graphic Designer
+            I’m Saad Kaif, Speaking of which is a Sr. Graphic Designer, Video Editor & Animation Artist
             focusing on creating emotional experiences at the intersection
             of art, design & Ai. I’m leading at 10+ year Expertise
           </p>
