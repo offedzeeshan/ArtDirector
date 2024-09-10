@@ -37,6 +37,12 @@
     color: rgb(151 44 171);
     font-family: serif;
 }
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="bannerp"] {
+      font-size: small;
+  }
+}
 .gd{
     display: block;
   margin-left: auto;
