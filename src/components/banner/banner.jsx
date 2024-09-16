@@ -11,7 +11,7 @@ import te from './te111.png'
 export const Banner = () => {
   return (
 <section className='banner'>
-<ul className="nav justify-content-center">
+{/* <ul className="nav justify-content-center">
   <li className="nav-item">
     <a className="nav-link active link-secondary" aria-current="page" href="#">Home</a>
   </li>
@@ -22,7 +22,7 @@ export const Banner = () => {
     <a className="nav-link link-secondary" href="#">Skills</a>
   </li>
   
-</ul>
+</ul> */}
     <Container>
       <Row>
         <Col xs={12} md={6} lg={6} xl={6} >

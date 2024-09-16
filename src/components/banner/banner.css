@@ -1,11 +1,12 @@
 .banner {
-    background-image: url("./bg1.svg");
+    /* background-image: url("./bg1.svg"); */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
-    padding: 100px 100px 100px 100px ;
+    padding: 170px 100px 100px 100px ;
     
+     
 }
 
 
@@ -22,7 +23,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 70%;
-  padding-top: 36%;
+  padding-top: 16%;
 
 }
 .te{
@@ -34,7 +35,7 @@
 .bannerp{
     padding-top: 10%;
     font-size: 17px;
-    color: rgb(151 44 171);
+    color: rgb(213 212 212);
     font-family: serif;
 }
 @media only screen and (max-width: 768px) {
